@@ -4,8 +4,7 @@ Term: Spring 2025
 Instructor: Professor Jane Valentine
 
 
-This project uses data collected manually from two Excel files downloaded from a website. 
-The data was not scraped automatically.
+This project uses some addtional data collected manually.
 
 Weather Data:
 Collected from The Weather Channel by counting the number of different weather days each month from daily weather history pages.
